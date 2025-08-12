@@ -20,3 +20,5 @@ Created a forecasting dashboard using Household Electric Power Consumption time-
 - Achieved accurate 12-month forecasts with clear seasonal trends.
 - Identified peak consumption days and months.
 - Provided long-term consumption outlook for planning.
+
+Dataset Link: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
