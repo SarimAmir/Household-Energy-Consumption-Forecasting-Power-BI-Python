@@ -8,7 +8,7 @@ Created a forecasting dashboard using Household Electric Power Consumption time-
 2. Error & Accuracy Analysis – MAPE trends, rolling MAPE, forecast error by month.  
 3. Seasonality Insights – Monthly & weekday patterns, daily consumption profiles.
 
-<img width="737" height="317" alt="Forecasting Dashboard" src="https://github.com/user-attachments/assets/88cdb2b4-5faf-42ac-a1d4-8167d324df24" />
+<img width="737" height="517" alt="Forecasting Dashboard" src="https://github.com/user-attachments/assets/88cdb2b4-5faf-42ac-a1d4-8167d324df24" />
 
 ## Tools & Techniques
 - Power BI (DAX, Power Query)
